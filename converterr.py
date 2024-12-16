@@ -10,7 +10,7 @@ def converter(ops, amount):
     else:
         return "Error!"
 
-
+print("hallo")
 ops = input("km or m? ")
 amount = int(input(f"Amount of {ops}: "))
 
